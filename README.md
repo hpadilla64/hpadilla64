@@ -5,12 +5,12 @@
 <div style="border: solid 0.0625em #CCC; width: 100%;"></div>
 <br />
 
-![Static Badge](https://img.shields.io/badge/logo-javascript-black?logo=javascript&label=&nsbp;)
+![Static Badge](https://img.shields.io/badge/logo-javascript-grey?logo=javascript&label=&nsbp;)
 ![Static Badge](https://img.shields.io/badge/logo-nodedotjs-black?logo=nodedotjs&label=npm)
-![Static Badge](https://img.shields.io/badge/logo-typescript-black?logo=typescript&label=&nsbp;)
-![Static Badge](https://img.shields.io/badge/logo-html5-black?logo=html5&label=&nsbp;)
-![Static Badge](https://img.shields.io/badge/logo-css3-black?logo=css3&label=&nsbp;)
-![Static Badge](https://img.shields.io/badge/logo-less-black?logo=less&label=&nsbp;)
+![Static Badge](https://img.shields.io/badge/logo-typescript-grey?logo=typescript&label=&nsbp;)
+![Static Badge](https://img.shields.io/badge/logo-html5-grey?logo=html5&label=&nsbp;)
+![Static Badge](https://img.shields.io/badge/logo-css3-grey?logo=css3&label=&nsbp;)
+![Static Badge](https://img.shields.io/badge/logo-less-grey?logo=less&label=&nsbp;)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hpadilla64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
